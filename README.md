@@ -2,7 +2,7 @@
 ### Web - Developer
 
 Website - 
-[a link](https://riturajcodes.github.io/)
+[riturajcodes.github.io](https://riturajcodes.github.io/)
 
 Technologies -
 HTML, CSS, JS, NODE, EXPRESS, MONGO DB
