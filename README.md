@@ -1,10 +1,11 @@
-# Rituraj Codes
-### Web - Developer
 
-Website - 
-[riturajcodes.github.io](https://riturajcodes.github.io/)
+## Hi there 👋
 
-Technologies -
-HTML, CSS, JS, NODE, EXPRESS, MONGO DB
-
-Learning React
+- 🔭 I’m currently working on [weatherDBI](https://github.com/db-db-dron/weatherdb)
+- 🌱 I’m currently learning Next.JS
+- 💬 Love to discuss about challenges faced while coding and exchange knowledge
+- 🤝 Eager to connect with curious passionate programmers striving to learn more
+- 📫 How to reach me:
+    - Email: riturajcodes@gmail.com
+    - Instagram: https://www.instagram.com/riturajcodes/
+- 😄 Pronouns: He/his/him
