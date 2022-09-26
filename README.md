@@ -7,5 +7,5 @@
 - 🤝 Eager to connect with curious passionate programmers striving to learn more
 - 📫 How to reach me:
     - Email: riturajcodes@gmail.com
-    - Instagram: https://www.instagram.com/riturajcodes/
+    - Instagram: https://www.instagram.com/rituraj_codes/
 - 😄 Pronouns: He/his/him
