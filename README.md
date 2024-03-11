@@ -11,4 +11,4 @@
     - Email: riturajcodes@gmail.com
     - Instagram: https://www.instagram.com/rituraj_codes/
 - 😄 Pronouns: He/his/him
-- Figma, HTML, CSS, JS, REACT JS, NEXT JS, NODE JS, PYTHON, KOTLIN, MONGO DB
+- Figma, HTML, CSS, JS, REACT JS, NEXT JS, NODE JS, PYTHON, KOTLIN, MONGO DB, C++, PyTorch
