@@ -3,7 +3,7 @@
 
 - 👨‍💻 Welcome to my GitHub profile, where innovation meets creation.
 - 🟢 As a dedicated software developer and entrepreneur, I'm constantly exploring new horizons and pushing boundaries to create cutting-edge solutions.
-- 🔭 I’m currently working on [weatherDBI](https://github.com/db-db-dron/weatherdb) and Xlen Studios
+- 🔭 I’m currently working on [Inferred](https://inferredtech.github.io/)
 - 🌱 I’m currently learning Deep Learning and Dev Ops
 - 💬 Love to discuss about challenges faced while coding and exchange knowledge
 - 🤝 Eager to connect with curious passionate programmers striving to learn more
